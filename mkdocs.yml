@@ -1,0 +1,39 @@
+site_name: Smart Brain Project
+site_description: Course Note
+site_url: https://carolinezhang.github.io/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.section
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+  
+  plugins:
+    - search
+  
+  markdown_extensions:
+    - admonition
+    - codehilite
+    - toc:
+        permalink: true
+    - pymdownx.arithmatex:
+        generic: true
+    - pymdownx.superfences
+    - pymdownx.highlight
+  
+  extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
+  
+  docs_dir: .
+
+  nav:
+    - Home: index.md
+    - Cloud Computing: 
+        - Overview: Cloud Computing/index.md
+    - General Physics:
+        - Overview: General Physics/index.md
+    - Machine Learning: 
+        - Overview: Machine Learning/index.md

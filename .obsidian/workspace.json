@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "296ed0361299d4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8696151f5334fe2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1836216ebe2e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Cloud Computing/Database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b9ee492f5021270",
+    "type": "split",
+    "children": [
+      {
+        "id": "cad0d629160be268",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db9319518af9b608",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4d1ee525b0fd36e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c3aa042f133e6ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53ae8d8625277813",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b0b6272869d3a07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39ede090eecee95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "米哈游-3D大模型数据工程师.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 米哈游-3D大模型数据工程师"
+            }
+          },
+          {
+            "id": "1401a4b2d4ed46b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "米哈游-3D大模型数据工程师.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 米哈游-3D大模型数据工程师"
+            }
+          },
+          {
+            "id": "ad07ed364ed36137",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f71c63a157af5381",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "米哈游-3D大模型数据工程师.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 米哈游-3D大模型数据工程师"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fc1836216ebe2e69",
+  "lastOpenFiles": [
+    "docs/Cloud Computing/index.md",
+    "Cloud Computing/Database.md",
+    "docs/Machine Learning/index.md",
+    "docs/General Physics/index.md",
+    "docs/Cloud Computing/Database.md",
+    "docs/Machine Learning",
+    "docs/General Physics",
+    "docs/Cloud Computing",
+    "docs",
+    "Machine Learning/index.md",
+    "General Physics/index.md",
+    "Cloud Computing/index.md",
+    "index.md",
+    "mkdocs.yml",
+    "Phd Portal/Phd List.md",
+    "CS224N/L1 - Intro and Word Vectors.md",
+    "General Physics",
+    "Machine Learning",
+    "Cloud Computing",
+    "Untitled 2.base",
+    "Untitled.base",
+    "MLE 学习路线.md",
+    "笔记总结.md",
+    "MCMC - Simulation of Random Variables.md",
+    "Multiple Linear Regression - Estimation.md",
+    "Pasted image 20260127105706.png",
+    "视觉学习/可解释性研究方向.md",
+    "具身智能/Dobot具身智能大赛.md",
+    "备采.md",
+    "Modern Applied Statistics/Sample Questions.md",
+    "Single Linear Regression - Testing.md",
+    "Pasted image 20260206120645.png",
+    "Pasted image 20260206120308.png",
+    "Pasted image 20260206115237.png",
+    "Pasted image 20260206112844.png",
+    "Pasted image 20260206112523.png",
+    "Pasted image 20260127120702.png",
+    "Pasted image 20260206120341.png",
+    "Pasted image 20260206112208.png",
+    "Welcome.md",
+    "米哈游-3D大模型数据工程师.md",
+    "Untitled.canvas",
+    "Modern Applied Statistics/Overdispersion and Qusi-distribution.md"
+  ]
+}
